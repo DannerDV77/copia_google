@@ -1,0 +1,139 @@
+body, html{
+    background-color: #202124;
+    font-family: 'Roboto', sans-serif;
+}
+
+.barra{
+    padding: 6px;
+    display: inline;
+    float: right;
+}
+
+.barra a{
+   padding-left: 14px;
+   text-decoration: none;
+   color: white;
+   font-size: 13px;
+}
+
+.barra button{
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 23px;
+    padding-right: 23px;
+    margin-left: 18px;
+    border: none;
+    border-radius: 3px;
+    background-color: #93BAF9;
+    font-size: 15px;
+}
+
+#grid{
+    height: 17px;
+    margin-left: 9px;
+}
+
+.busqueda{
+    position: absolute;
+    bottom: 47vh;
+    width: 100vw;
+    text-align: center;
+}
+
+#imgoogle{
+    height: 92px;
+    width: 275px;
+    margin-bottom: 25px;
+}
+
+.caja{
+    text-align: center;
+    padding: 0%;
+    border: 1px solid #5F6368;
+    border-radius: 25px;
+    margin: 0 auto;
+    width: 555px;
+    background-color: #202124;
+    height: 46px;
+}
+
+.caja input{
+    height: 28px;
+    width: 400px;
+    border: none;
+    background-color: #202124;
+    text-decoration: none;
+    outline: 0px;
+    padding-top: 15px;
+    font-size: 20px;
+    color: white;
+}
+
+.caja img{
+    padding-top: 8px;
+    margin-left: 8px;
+    height: 27px;
+}
+
+.caja label img{
+    height: 20px;
+}
+
+.caja2{
+    margin-top: 30px;
+}
+
+.caja2 button{
+    background-color: #303134;
+    height: 35px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-left: 4px;
+    margin-right: 4px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.mx{
+    position: absolute;
+    bottom: 50px;
+    left: 0px;
+    right: 0px;
+    padding-left: 20px;
+    background-color: #171717;
+    color: white;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding-left: 20px;
+    height: 48px;
+    background-color: #171717;
+    color: white;
+}
+
+.footer a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.derecha{
+    padding-top: 15px;
+    position: absolute;
+    right: 50px;
+}
+
+.izquierda{
+    padding-top: 15px;
+    position: absolute;
+    left: 50px;
+}
